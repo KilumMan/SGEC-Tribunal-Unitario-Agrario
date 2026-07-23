@@ -1,0 +1,20 @@
+# Entorno virtual de Python
+venv/
+env/
+ENV/
+
+# Archivos compilados y ejecutable
+build/
+dist/
+*.spec
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Base de datos SQLite local (con datos reales)
+*.db
+*.sqlite3
+
+# Configuración del editor
+.vscode/
